@@ -1,0 +1,13 @@
+#banner{
+    background: linear-gradient(rgba(28, 30, 50, .9), rgba(28, 30, 50, .9)), url(../../../img/bg-banner.jpg);
+    height: 400px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    color: aliceblue;
+    background-attachment: fixed;
+
+
+
+}
